@@ -52,7 +52,10 @@ Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/touhou01.jpg",
 	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/touhou03.jpg",
+        "backgrounds/images/touhou04.jpg",
+        "backgrounds/images/touhou05.jpg",
+        "backgrounds/images/touhou06.jpg"
 ];
 
 /*Random background images order?*/
@@ -86,9 +89,9 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{youtube: "uYW8KOK50IQ", name: "Freedom Networks -Installation Music"},
+	{youtube: "uYW8KOK50IQ", name: "Freedom Networks -Installation Music"},
+	{youtube: "uYW8KOK50IQ", name: "Freedom Networks -Installation Music"}
 ];
 
 /*Random music order?*/
@@ -103,9 +106,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Do not prop climb, surf, kill, block, bridge, push, trap or spam",
+"Thanks for joining Freedom Networks!",
+"You cannot kill yourself to evade a roleplay situation?"
 ];
 
 /*Random message order?*/
