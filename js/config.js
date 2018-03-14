@@ -62,7 +62,9 @@ var l_bgImages = [
         "image7.jpg",
         "image8.jpg",
         "image9.jpg",
-        "image10.jpg"
+        "image10.jpg",
+        "image11.jpg",
+        "image12.jpg",
 ];
 
 /*Random background images order?*/
@@ -96,8 +98,29 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "gkvbAOgEKLI", name: "Freedom Networks - installation music"},
-	
+	{youtube: "bvHR_KHELZ4", name: "Nightcore - Waiting For Love"},
+	{youtube: "nXxZQ2t7NKk", name: "Nightcore - Too Good At Goodbyes"},
+	{youtube: "ywGE8Ydjzsc", name: "Panda Eyes - KIKO"},
+        {youtube: "-iwYHk_SwNA", name: "Panda Eyes - Colorblind"},
+        {youtube: "uInmFU6JkU", name: "Lost Woods Legend of Zelda"},
+        {youtube: "d1vQMIisJuc", name: "I Wanna Be Like You"},
+        {youtube: "ZNra8eK0K6k", name: "Alessia Cara How Far I'll Go"},
+        {youtube: "c6rP-YP4c5I", name: "Try Everything"},
+        {youtube: "VxUr-LbVsY0", name: "Karaoke Funkytown"},
+        {youtube: "6fNmzp5K5rw", name: "Karaoke Bette Davis Eyes Kim Carnes"},
+        {youtube: "FUK6egJ0aLc", name: "Mysterious Forest"},
+        {youtube: "V5UMTNPNgng", name: "Michael Buble Haven't Met You Yet"},
+        {youtube: "0BPu5m63_go", name: "Imagine Dragons Radioactive"},
+        {youtube: "3JFYSA-10xc", name: "Galantis No Money"},
+        {youtube: "Ida_1AVJDMs", name: "Fox Stevenson All This Time"},
+        {youtube: "Bznxx12Ptl0", name: "Im An Albatraoz"},
+        {youtube: "bSgl08QkR-U", name: "Becouse Im Happy"},
+        {youtube: "HOnqr8ifta0", name: "Bruno Mars Treasure"},
+        {youtube: "M2TU662vy-Y", name: "Swedish House Mafia Don't You Worry Child"},
+        {youtube: "OK031NYi4AQ", name: "twenty one pilots"},
+        {youtube: "CPy2TLPbpVY", name: "Beach MBB"},
+        {youtube: "2GW4pD-bKc0", name: "It Was Not Your Fault But Mine"}
+
 ];
 
 /*Random music order?*/
@@ -113,26 +136,26 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
-	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
-	"Mingeing In This Server Will Result In A Perma Ban!",
-        "Please Dont Disconnect From Freedom Networks Get To Know Us More!",
-        "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
+	"The Admins Are AlWays Watching So Dont Fuck Up. And Please Behave!",
+	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
+        "Don't You Dare Disconnect From Here Or We Will Hunt You Down And Destroy You!",
+        "Thanks For Playing Here Hope You Enjoy Your Time Here!",
         "Invite Your Friends For Your Chance To Win VIP!",
-        "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
+        "Here To Advertise Your Server ? Well Then You Can Fuck Off Out Of Here!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
-        "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
+        "I Don't Know What Else To Fucking Say AnyMore Just Be Good Ok!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome Your In Freedom Networks!",
-        "Do not build inside unowned buildings!",
-        "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
-        "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
+        "Welcome to Golden Servers!",
+        "Check Out Ceyayroxs Youtube Channel Bro!",
+        "Make sure to read the rules!",
+        "Dumb Useless Children Asking For Ranks Like Come On Right Fuck Me XD!",
         "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
         "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server!",
-        "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
-        "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
-        "You cannot kill yourself to evade a roleplay situation!",
-        "Bullying Is Not Tolerated Respect All Players!"
+        "Donate Your Money To My Server!",
+        "Your Welcome To Join Our Discord Server At AnyTime Here Is The Join Link https://discord.gg/EZ3gct8!",
+        "Enjoy your time on our server!",
+        "Cyber Bullying Is Not Tolerated Here Please Respect All Players If You're Caught Doing This It's A Permanent Ban!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
