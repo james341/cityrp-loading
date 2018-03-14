@@ -88,7 +88,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
+	{youtube: "uYW8KOK50IQ", name: "Freedom Networks -Installation Music"},
 	{youtube: "uYW8KOK50IQ", name: "Freedom Networks -Installation Music"},
 	{youtube: "uYW8KOK50IQ", name: "Freedom Networks -Installation Music"},
 	{youtube: "uYW8KOK50IQ", name: "Freedom Networks -Installation Music"}
